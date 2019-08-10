@@ -1,0 +1,20 @@
+TitleText: Delay Vs Time 
+YUnitText: Delay in Micro Seconds 
+XUnitText: Time
+Markers: true
+BoundBox: true
+Background: white
+Ticks: true
+NoLines: false  
+
+"Prop"
+
+0 0
+10 0.01057
+
+
+"Enhance"
+
+0 0
+10 0.00133
+

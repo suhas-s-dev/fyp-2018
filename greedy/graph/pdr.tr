@@ -1,0 +1,21 @@
+TitleText: PDR Vs Time 
+YUnitText: PDR in % 
+XUnitText: Time
+Markers: true
+BoundBox: true
+Background: white
+Ticks: true
+NoLines: false  
+
+
+"Prop"
+
+0 0
+10 0.63
+
+
+"Enhance"
+
+0 0
+10 0.70
+

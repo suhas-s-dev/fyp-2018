@@ -1,0 +1,20 @@
+TitleText: Overhead Vs Time 
+YUnitText: Overhead 
+XUnitText: Time
+Markers: true
+BoundBox: true
+Background: white
+Ticks: true
+NoLines: false  
+
+"Prop"
+
+0 0
+10 0.26
+
+
+"Enhance"
+
+0 0
+10 0.8
+

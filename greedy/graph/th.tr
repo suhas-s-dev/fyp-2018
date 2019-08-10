@@ -1,0 +1,20 @@
+TitleText: Throughput (Kbps) Vs Time 
+YUnitText: Throughput 
+XUnitText: Time
+Markers: true
+BoundBox: true
+Background: white
+Ticks: true
+NoLines: false  
+
+"Prop"
+
+0 0
+10 192
+
+
+"Enhance"
+
+0 0
+10 595
+
